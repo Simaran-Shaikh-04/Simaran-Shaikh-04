@@ -12,7 +12,7 @@ I don't just read financial statements — I model them, visualise them, and fin
 - 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai Opportunities**
 - 🎓 BCom Financial Accounting · June 2024 – April 2027
 - 📬 simaranshaikh04@gmail.com
-- 💼 [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaranshaikh)
+- 💼 [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaran-shaikh)
 
 ---
 
@@ -76,7 +76,6 @@ Conducted full equity research on Dynamatic Technologies. Part of a live ₹50L 
 - ✅ AI Literacy — **IBM / NIELIT via Credly** (2025)
 - ✅ Advanced Excel with AI — **Internshala** (2025)
 - ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
-- 🔄 Microsoft **PL-300** — Power BI Data Analyst Associate *(In Progress · 2026)*
-- 🔄 **FMVA** — Financial Modelling & Valuation Analyst, CFI *(Planned · Sep 2026)*
 
 ---
+> .....
