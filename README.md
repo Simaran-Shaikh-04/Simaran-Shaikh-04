@@ -1,42 +1,97 @@
-Hi, I'm Simaran Shaikh 👋
-Finance & Data Analytics | BCom Financial Accounting | Don Bosco College, Goa
-🎯 What I Do
-I'm a BCom Year-2 student who sits at the intersection of Finance and Data — I don't just read financial statements, I model them, visualise them, and find the story inside the numbers.
-📊 Power BI — DAX, Power Query, interactive dashboards (250,000+ transaction records analysed)
-📈 Equity Research — Ratio analysis across 100+ companies, DCF modelling, portfolio construction
-💹 Financial Analysis — 65+ financial ratios, FY2020–2024 YoY trend analysis
-🤖 AI-Assisted Analytics — IBM AI Literacy certified, AI tools in financial workflows
-📁 Projects (Work in Progress — Updated Regularly)
-Project
-Tools Used
-What It Shows
-UPI Transaction Dashboard
-Power BI, DAX, Power Query
-250K+ records, KPI drill-throughs, spending trends
-100-Company Financial Ratio Analysis
-Excel, Power BI
-65+ ratios, FY2020–24 across sectors
-Dynamatic Technologies Equity Research
-Excel, Financial Modelling
-DCF valuation, buy/hold/sell recommendation
-Sector Comparison Dashboard
-Power BI
-Multi-company BI dashboard — IT/Pharma sector
-🔄 Projects are added as I complete each certification milestone (PL-300 → FMVA)
-🏅 Certifications
-✅ Business Intelligence Using Advanced Excel & Power BI — Microsoft & AICTE (2026)
-✅ AI Literacy — IBM / NIELIT via Credly (2025)
-✅ Advanced Excel with AI — Internshala (2025)
-✅ Equity Research & Portfolio Strategy — Don Bosco College / Precision Investments (2026)
-🔄 Microsoft PL-300 — Power BI Data Analyst Associate (In Progress — 2026)
-🔄 FMVA — Financial Modelling & Valuation Analyst (CFI) (Planned — Sep 2026)
-💼 Experience Snapshot
-UptoSkills India (Feb 2026 – Present)
-Finance Intern & Team Captain | AICTE Internship Portal
-→ Led team on Financial Parameter Analysis: 100+ companies, 65+ ratios, FY2020–2024
-FICE Education (Feb–Mar 2026)
-Power BI Intern | Microsoft Elevate x AICTE Program
-→ Built dashboards with DAX, Power Query; earned co-branded Microsoft & AICTE certificate
-Precision Investments (Mar 2026)
-Equity Research Intern | via Don Bosco College
-→ ₹50L equity portfolio from scratch; Dynamatic Technologies equity research; ₹5L recovery portfolio
+# Hi, I'm Simaran Shaikh 👋
+
+### Finance & Data Analytics · BCom Financial Accounting · Don Bosco College, Goa
+
+---
+
+## 🧠 About Me
+
+BCom Year-2 student at the intersection of **Finance and Data**.  
+I don't just read financial statements — I model them, visualise them, and find the story inside the numbers.
+
+- 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai Opportunities**
+- 🎓 BCom Financial Accounting · June 2024 – April 2027
+- 📬 simaranshaikh04@gmail.com
+- 💼 [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaranshaikh)
+
+---
+
+## 🛠️ Skills
+
+| Area | Tools & Skills |
+|---|---|
+| **Data & BI** | Microsoft Power BI · DAX · Power Query · Data Modelling |
+| **Finance** | Financial Ratio Analysis · Equity Research · DCF Valuation · Portfolio Analysis |
+| **Spreadsheets** | Advanced Excel · Pivot Tables · VLOOKUP · Financial Modelling |
+| **Currently Learning** | SQL · Tally Prime · Python (basics) |
+
+---
+
+## 📁 Projects
+
+### 📊 UPI Transaction Dashboard
+> Power BI · DAX · Power Query
+
+Analysed **250,000+ UPI transaction records**. Built interactive KPI dashboards with drill-throughs, slicers, and custom DAX measures to surface spending and volume trends.
+
+---
+
+### 📈 100-Company Financial Ratio Analysis
+> Advanced Excel · Google Sheets · AI Analytics Tools
+
+Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024. Conducted YoY analysis of revenue, profit/loss, and key performance ratios. Built as part of UptoSkills AICTE internship.
+
+---
+
+### 🏢 Dynamatic Technologies — Equity Research Report
+> Financial Analysis · Ratio Analysis · Portfolio Strategy
+
+Conducted full equity research on Dynamatic Technologies. Part of a live ₹50L equity portfolio project at Precision Investments. *(Full DCF model in progress — FMVA coursework)*
+
+---
+
+## 💼 Experience
+
+**UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – Present)*
+- AICTE Internship Portal · Remote
+- Led cross-functional team on Financial Parameter Analysis project
+- Analysed 100+ companies · 65+ ratios · FY2020–FY2024
+
+**FICE Education** · Power BI Intern *(Feb 2026 – Mar 2026)*
+- Microsoft Elevate x AICTE Program · Remote
+- Built dashboards using DAX, Power Query, multi-source data integration
+- Earned co-branded Microsoft & AICTE certificate
+
+**Precision Investments** · Equity Research Intern *(Mar 2026)*
+- Via Don Bosco College · Panaji, Goa
+- Built ₹50L equity portfolio from scratch
+- Designed ₹5L recovery-focused client portfolio
+- Conducted equity research on Dynamatic Technologies
+
+---
+
+## 🏅 Certifications
+
+- ✅ Business Intelligence Using Advanced Excel & Power BI — **Microsoft & AICTE** (2026)
+- ✅ AI Literacy — **IBM / NIELIT via Credly** (2025)
+- ✅ Advanced Excel with AI — **Internshala** (2025)
+- ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
+- 🔄 Microsoft **PL-300** — Power BI Data Analyst Associate *(In Progress · 2026)*
+- 🔄 **FMVA** — Financial Modelling & Valuation Analyst, CFI *(Planned · Sep 2026)*
+
+---
+
+## 📊 My Learning Roadmap
+
+```
+2026 Q2  ──▶  PL-300 Exam Prep & Certification
+2026 Q3  ──▶  PL-300 Certified · Apply for BI/MIS Analyst Roles
+2026 Q4  ──▶  FMVA (CFI) · Financial Modelling Stack
+2027 Q1  ──▶  FMVA Certified · Capstone DCF Model Published
+2027 Q2  ──▶  BCom Final Exams · Full-Time Analyst Roles
+2027+    ──▶  CFA Level 1 OR CMA-US (based on career path)
+```
+
+---
+
+> *"Proof beats paper. Every project here is real work from real internships."*
