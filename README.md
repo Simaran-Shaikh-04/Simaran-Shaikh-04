@@ -9,7 +9,7 @@
 BCom Year-2 student at the intersection of **Finance and Data**.  
 I don't just read financial statements — I model them, visualise them, and find the story inside the numbers.
 
-- 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai Opportunities**
+- 📍 Ponda, Goa · Open to **Remote Roles** & **Goa Opportunities**
 - 🎓 BCom Financial Accounting · June 2024 – April 2027
 - 📬 simaranshaikh04@gmail.com
 - 💼 [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaran-shaikh)
@@ -23,7 +23,7 @@ I don't just read financial statements — I model them, visualise them, and fin
 | **Data & BI** | Microsoft Power BI · DAX · Power Query · Data Modelling |
 | **Finance** | Financial Ratio Analysis · Equity Research · DCF Valuation · Portfolio Analysis |
 | **Spreadsheets** | Advanced Excel · Pivot Tables · VLOOKUP · Financial Modelling |
-| **Currently Learning** | SQL · Tally Prime · Python (basics) |
+| **Currently Learning** | · Tally Prime |
 
 ---
 
