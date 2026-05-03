@@ -80,18 +80,3 @@ Conducted full equity research on Dynamatic Technologies. Part of a live ₹50L 
 - 🔄 **FMVA** — Financial Modelling & Valuation Analyst, CFI *(Planned · Sep 2026)*
 
 ---
-
-## 📊 My Learning Roadmap
-
-```
-2026 Q2  ──▶  PL-300 Exam Prep & Certification
-2026 Q3  ──▶  PL-300 Certified · Apply for BI/MIS Analyst Roles
-2026 Q4  ──▶  FMVA (CFI) · Financial Modelling Stack
-2027 Q1  ──▶  FMVA Certified · Capstone DCF Model Published
-2027 Q2  ──▶  BCom Final Exams · Full-Time Analyst Roles
-2027+    ──▶  CFA Level 1 OR CMA-US (based on career path)
-```
-
----
-
-> *"Proof beats paper. Every project here is real work from real internships."*
