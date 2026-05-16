@@ -35,7 +35,7 @@ I don't just read financial statements — I model them, visualise them, and fin
 Analysed **250,000+ UPI transaction records**. Built interactive KPI dashboards with drill-throughs, slicers, and custom DAX measures to surface spending and volume trends.
  
 ---
-> 🔗 
+> 🔗 (https://github.com/Simaran-Shaikh-04/upi-transaction-dashboard)
 
 ### 📈 100-Company Financial Ratio Analysis
 > Advanced Excel · Google Sheets · AI Analytics Tools
