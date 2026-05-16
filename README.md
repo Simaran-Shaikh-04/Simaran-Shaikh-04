@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-BCom Year-2 student at the intersection of **Finance and Data**.  
+BCom Final Year student at the intersection of **Finance and Data**.  
 I don't just read financial statements — I model them, visualise them, and find the story inside the numbers.
 
 - 📍 Ponda, Goa · Open to **Remote Roles** & **Goa Opportunities**
