@@ -43,13 +43,6 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 
 ---
 
-### 🏢 Dynamatic Technologies — Equity Research Report
-> Financial Analysis · Ratio Analysis · Portfolio Strategy
-
-Conducted full equity research on Dynamatic Technologies. Part of a live ₹50L equity portfolio project at Precision Investments. *(Full DCF model in progress — FMVA coursework)*
-
----
-
 ## 💼 Experience
 
 **UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – Present)*
