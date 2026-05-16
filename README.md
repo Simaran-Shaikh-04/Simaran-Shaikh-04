@@ -66,7 +66,7 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 ## 🏅 Certifications
 
 - ✅ Business Intelligence Using Advanced Excel & Power BI — **Microsoft & AICTE** (2026)
-- ✅ AI Literacy — **IBM / NIELIT via Credly** (2025)
+- ✅ AI Literacy — **IBM** (2025)
 - ✅ Advanced Excel with AI — **Internshala** (2025)
 - ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
 
