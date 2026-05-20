@@ -72,7 +72,6 @@ Conducted full equity research on Dynamatic Technologies as part of a live ₹50
 - Built ₹50L equity portfolio from scratch
 - Designed ₹5L recovery-focused client portfolio (–14% position)
 - Reconstructed mutual fund portfolio targeting ₹1.2L annual income
-- Conducted equity research on Dynamatic Technologies
 
 ---
 
