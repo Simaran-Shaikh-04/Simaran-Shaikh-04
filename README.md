@@ -24,7 +24,6 @@ I don't just read financial statements — I model them, visualise them, and fin
 | **Data & BI** | Microsoft Power BI · DAX · Power Query · Data Modelling |
 | **Finance** | Financial Ratio Analysis · Equity Research · DCF Valuation · Portfolio Analysis |
 | **Spreadsheets** | Advanced Excel · Pivot Tables · VLOOKUP · Financial Modelling |
-| **Currently Learning** | SQL · Tally Prime · Python (basics) |
 
 ---
 
