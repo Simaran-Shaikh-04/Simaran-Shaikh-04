@@ -68,7 +68,7 @@ Conducted full equity research on Dynamatic Technologies as part of a live ₹50
 **Self-Directed Build** · AI Developer & Financial Analyst *(Jun 2026)*
 - Built and deployed a live AI Equity Research tool on Hugging Face Spaces (`LumoraX/equity-research-pro`)
 - Integrated Google Gemini 2.5 Flash API to parse and analyze annual report PDFs (extracting 20–25 fields per year)
-- Developed sector-specific benchmarking (12 sectors) and qualitative warning-flag algorithms (audit, going concern)
+- Developed sector-specific benchmarking (16 sectors) and qualitative warning-flag algorithms (audit, going concern)
 
 **UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – May 2026)*
 - Led and managed a team of interns to conduct a comprehensive **Financial Parameter Analysis** of **100+ public companies** (FY2020–FY2024)
