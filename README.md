@@ -89,11 +89,13 @@ Conducted full equity research on Dynamatic Technologies as part of a live ₹50
 
 ## 🏅 Certifications
 
-- ✅ Business Intelligence Using Advanced Excel & Power BI — **Microsoft & AICTE** (2026)
+- ✅ Power BI for Business Applications (140 Hrs across 6 credentials) — **Microsoft Elevate & AICTE** (2026)
+- ✅ Business Intelligence using Advanced Excel and Power BI — **ExcelR EdTech** (2026)
+- ✅ Finance Internship — Domain Captain — **UptoSkills** (2026)
+- ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
+- ✅ McKinsey Forward Program — **McKinsey & Company** (2026)
 - ✅ AI Literacy — **IBM via Credly** (2025)
 - ✅ Advanced Excel with AI — **Internshala** (2025)
-- ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
-- ✅ McKinsey Forward Program — **McKinsey & Company**
 
 ---
 
