@@ -12,7 +12,7 @@ I don't just read financial statements — I model them, visualise them, and fin
 - 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai / Pune / Bengaluru Opportunities**
 - 🎓 BCom Financial Accounting · June 2024 – April 2027
 - 📬 simaranshaikh04@gmail.com
-- 💼 [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaranshaikh)
+- 💼 [linkedin.com/in/simaran-shaikh](https://www.linkedin.com/in/simaran-shaikh/)
 - 🌐 [simaran-shaikh-04.github.io](https://simaran-shaikh-04.github.io)
 
 ---
@@ -28,6 +28,14 @@ I don't just read financial statements — I model them, visualise them, and fin
 ---
 
 ## 📁 Projects
+
+### 🤖 [AI Equity Research Assistant](https://github.com/Simaran-Shaikh-04/AICTE-BATCH-1-Equity-Research-Pro)
+> Streamlit · Google Gemini 2.5 Flash · python-docx · Hugging Face Spaces  
+> Live Space: [huggingface.co/spaces/LumoraX/equity-research-pro](https://huggingface.co/spaces/LumoraX/equity-research-pro)
+
+Solo-built a **2,850-line Streamlit application** integrated with Google Gemini 2.5 Flash. Automatically extracts 20–25 financial fields per year from annual report PDFs, processes them via a custom 12-sector KPI scoring engine, and outputs a formatted 9-section Word research report with qualitative warning flags and stock rating.
+
+---
 
 ### 📊 [UPI Transaction Dashboard](https://github.com/Simaran-Shaikh-04/upi-transaction-dashboard)
 > Power BI · DAX · Power Query
@@ -53,6 +61,11 @@ Conducted full equity research on Dynamatic Technologies as part of a live ₹50
 ---
 
 ## 💼 Experience
+
+**Self-Directed Build** · AI Developer & Financial Analyst *(Jun 2026)*
+- Built and deployed a live AI Equity Research tool on Hugging Face Spaces (`LumoraX/equity-research-pro`)
+- Integrated Google Gemini 2.5 Flash API to parse and analyze annual report PDFs
+- Developed sector-specific benchmarking and qualitative warning-flag algorithms
 
 **UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – Present)*
 - AICTE Internship Portal · Remote
