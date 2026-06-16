@@ -1,17 +1,20 @@
 # Hi, I'm Simaran Shaikh 👋
 
-### Finance & Data Analytics · BCom Financial Accounting · Don Bosco College, Goa
+### Financial & Equity Research Analyst | BCom (Financial Accounting) @ Don Bosco College | Specializing in Corporate Valuation, Financial Modeling & Advanced Excel
 
 ---
 
 ## 🧠 About Me
 
-BCom Year-2 student at the intersection of **Finance and Data**.  
-I don't just read financial statements — I model them, visualise them, and find the story inside the numbers.
+📈 B.Com student (Class of 2027) pursuing a career in Equity Research, Financial Analysis, and Corporate Valuation.
+
+I focus on the core disciplines of corporate finance and investment research—building 3-statement financial models, executing corporate valuations (DCF and relative multiples), analyzing financial statements, and designing portfolio allocation strategies. 
+
+I leverage Advanced Excel, Power BI, and FMVA principles to turn financial statements into clean, actionable projection models and investment recommendations.
 
 - 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai / Pune / Bengaluru Opportunities**
 - 🎓 BCom Financial Accounting · June 2024 – April 2027
-- 📬 simaranshaikh04@gmail.com
+- 📬 [simaranshaikh04@gmail.com](mailto:simaranshaikh04@gmail.com)
 - 💼 [linkedin.com/in/simaran-shaikh](https://www.linkedin.com/in/simaran-shaikh/)
 - 🌐 [simaran-shaikh-04.github.io](https://simaran-shaikh-04.github.io)
 
@@ -19,11 +22,11 @@ I don't just read financial statements — I model them, visualise them, and fin
 
 ## 🛠️ Skills
 
-| Area | Tools & Skills |
+| Category | Core Skills & Competencies |
 |---|---|
-| **Data & BI** | Microsoft Power BI · DAX · Power Query · Data Modelling |
-| **Finance** | Financial Ratio Analysis · Equity Research · DCF Valuation · Portfolio Analysis |
-| **Spreadsheets** | Advanced Excel · Pivot Tables · VLOOKUP · Financial Modelling |
+| **Valuation & Modeling** | Discounted Cash Flow (DCF) · Relative Valuation (P/E, EV/EBITDA) · 3-Statement Modeling · Scenario Planning |
+| **Financial Analysis** | DuPont Analysis · Ratio Analysis · Variance Analysis · Margin Trends · Portfolio Restructuring |
+| **Software & BI** | Advanced Excel (Modeling, XLOOKUP, Pivot Tables) · Power BI · DAX · Power Query · Data Modeling |
 
 ---
 
@@ -64,26 +67,25 @@ Conducted full equity research on Dynamatic Technologies as part of a live ₹50
 
 **Self-Directed Build** · AI Developer & Financial Analyst *(Jun 2026)*
 - Built and deployed a live AI Equity Research tool on Hugging Face Spaces (`LumoraX/equity-research-pro`)
-- Integrated Google Gemini 2.5 Flash API to parse and analyze annual report PDFs
-- Developed sector-specific benchmarking and qualitative warning-flag algorithms
+- Integrated Google Gemini 2.5 Flash API to parse and analyze annual report PDFs (extracting 20–25 fields per year)
+- Developed sector-specific benchmarking (12 sectors) and qualitative warning-flag algorithms (audit, going concern)
 
-**UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – Present)*
-- AICTE Internship Portal · Remote
-- Led cross-functional team on Financial Parameter Analysis project
-- Analysed 100+ companies · 65+ ratios · FY2020–FY2024
-- Tools: Advanced Excel · AI Analytics Tools · Google Sheets
+**UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – May 2026)*
+- Led and managed a team of interns to conduct a comprehensive **Financial Parameter Analysis** of **100+ public companies** (FY2020–FY2024)
+- Calculated and modeled **65+ key financial ratios** in Advanced Excel to assess performance and YoY recovery trends
+- Formulated comparative sector-wide templates to track YoY revenue and profit margins
 
-**FICE Education** · Power BI Intern *(Feb 2026 – Mar 2026)*
+**FICE Education** · Financial Reporting Intern *(Feb 2026 – Mar 2026)*
 - Microsoft Elevate × AICTE Program · Remote
-- Built 3-page dashboard on 2,50,000 UPI records · 9 custom DAX measures · 16 Power Query steps
-- Earned 6 co-branded Microsoft & AICTE certificates · 140+ hours learning
-- Mentor: *"Next-level Power BI mastery"* — Vignesh Muthuvelan, Master Trainer
+- Cleaned and processed a database of **250,000+ transactional records** to identify operational trends
+- Created a **3-page interactive performance dashboard** utilizing 9 custom DAX measures to track volume trends and metrics
+- Developed automated workflows in Power Query to expedite data cleaning
 
-**Precision Investments** · Equity Research Intern *(Mar 2026)*
-- Via Don Bosco College · Panaji, Goa
-- Built ₹50L equity portfolio from scratch
-- Designed ₹5L recovery-focused client portfolio (–14% position)
-- Reconstructed mutual fund portfolio targeting ₹1.2L annual income
+**Precision Investments** · Equity Research & Portfolio Intern *(Mar 2026)*
+- Conducted fundamental stock research, client cash flow modeling, and asset allocation strategy
+- Performed fundamental analysis on mid-cap firms (including Dynamatic Technologies), evaluating financial statements and industry trends
+- Restructured a real client mutual fund portfolio of **₹2.39Cr corpus across 28 schemes**, optimizing cash allocation for retirement income planning
+- Designed a **₹5L stock portfolio** for private clients focusing on undervalued growth equities with strong fundamentals
 
 ---
 
