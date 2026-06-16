@@ -49,17 +49,24 @@ Analysed **2,50,000 UPI transaction records**. Built 3-page interactive dashboar
 
 ---
 
-### 📈 100-Company Financial Ratio Analysis
-> Advanced Excel · Google Sheets · AI Analytics Tools
+### 📈 [Trading Portfolio Analysis](https://github.com/Simaran-Shaikh-04/Trading-Portfolio-Analysis)
+> Fundamental Analysis · Portfolio Strategy · Advanced Excel
 
-Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024. Conducted YoY analysis of revenue, profit/loss, and key performance ratios covering COVID crash, recovery, and post-pandemic normalisation. Built as part of UptoSkills AICTE internship.
+Analysed a real client trading portfolio of ₹5,00,000. Applied 15 financial ratios (valuation, profitability, growth, risk, and price momentum) to Motilal Oswal, HDFC Bank, and Sagility India. Developed a ₹2,00,000 cash recovery deployment strategy using undervalued equities (Sagility India) and defensive hedges (Colgate India).
 
 ---
 
-### 🏢 Dynamatic Technologies — Equity Research
-> Financial Analysis · Portfolio Strategy · Precision Investments
+### 🏦 [Family Mutual Fund Portfolio Analysis](https://github.com/Simaran-Shaikh-04/Family-MF-Portfolio-Analysis)
+> Financial Planning · Asset Allocation · Value Research Online
 
-Conducted full equity research on Dynamatic Technologies as part of a live ₹50L portfolio project at Precision Investments. DCF model in progress as part of FMVA coursework (Sep 2026).
+Reviewed a real ₹2.39 Crore combined family corpus across 28 mutual fund schemes for 3 members. Identified 14% SWP readiness shortfall, flagged age-misaligned small-cap exposure for retirement stage, and provided restructured, diversified allocation recommendations.
+
+---
+
+### 📊 100-Company Financial Parameter Analysis
+> Advanced Excel · Google Sheets · AI Analytics Tools
+
+Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024. Conducted YoY analysis of revenue, profit/loss, and key performance ratios covering COVID crash, recovery, and post-pandemic normalisation. Built as part of UptoSkills AICTE internship.
 
 ---
 
