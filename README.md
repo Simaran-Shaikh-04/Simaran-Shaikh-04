@@ -33,12 +33,21 @@ I leverage Advanced Excel, Power BI, and FMVA principles to turn financial state
 ## 📁 Projects
 
 ### 🤖 [AI Equity Research Assistant](https://github.com/Simaran-Shaikh-04/AICTE-BATCH-1-Equity-Research-Pro)
-> Streamlit · Google Gemini 2.5 Flash · python-docx · Hugging Face Spaces  
+> React · TypeScript · Express · Google Gemini 2.5 Flash · Docker · Hugging Face Spaces  
 > Live Space: [huggingface.co/spaces/LumoraX/equity-research-pro](https://huggingface.co/spaces/LumoraX/equity-research-pro)
 
-Solo-built a **2,850-line Streamlit application** integrated with Google Gemini 2.5 Flash. Automatically extracts 20–25 financial fields per year from annual report PDFs, processes them via a custom 16-sector KPI scoring engine, and outputs a formatted 9-section Word research report with qualitative warning flags and stock rating.
+Developed a **full-stack React & Node.js application** powered by Google Gemini 2.5 Flash for institutional-grade equity analysis of Indian listed companies. It uploads 3 years of report PDFs, extracts 25+ parameters per year, processes them through 17 sector-specific ratio engines, performs forensic auditing, and features grounded Q&A.
 
 ---
+
+### 🚀 [AI Prompt Studio](https://github.com/Simaran-Shaikh-04/AI-Prompt-Studio)
+> React 19 · TypeScript · Tailwind CSS v4 · Express · Google Gen AI SDK · Docker  
+> Live Space: [huggingface.co/spaces/LumoraX/ai-prompt-studio](https://huggingface.co/spaces/LumoraX/ai-prompt-studio)
+
+Client-side-optimized prompt compiler and migration workspace supporting 8+ AI models (Gemini, ChatGPT, Claude, DeepSeek, etc.). Automatically translates prompts based on target model syntax, enhances image prompting dialects, bridges chat history across rate limits, and includes custom student and career roadmap suites.
+
+---
+
 
 ### 📊 [UPI Transaction Dashboard](https://github.com/Simaran-Shaikh-04/upi-transaction-dashboard)
 > Power BI · DAX · Power Query
@@ -73,11 +82,11 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 ## 💼 Experience
 
 **Self-Directed Build** · AI Developer & Financial Analyst *(Jun 2026)*
-- Built and deployed a live AI Equity Research tool on Hugging Face Spaces (`LumoraX/equity-research-pro`)
-- Integrated Google Gemini 2.5 Flash API to parse and analyze annual report PDFs (extracting 20–25 fields per year)
-- Developed sector-specific benchmarking (16 sectors) and qualitative warning-flag algorithms (audit, going concern)
+- **AI Prompt Studio**: Built and deployed a live client-side multi-model workspace in React 19 & Tailwind CSS v4 to compile model-optimized prompts and bridge chat contexts (`LumoraX/ai-prompt-studio`).
+- **AI Equity Research Tool**: Deployed a full-stack React & Node.js app (`LumoraX/equity-research-pro`) parsing 3-year report PDFs with Google Gemini 2.5 Flash, 17 sector ratio engines, and forensic checks.
+- Developed sector-specific benchmarking (17 sectors) and qualitative warning-flag algorithms (audit, going concern).
 
-**UptoSkills India** · Finance Intern & Team Captain *(Feb 2026 – May 2026)*
+**UptoSkills India** · Finance Intern & Team Captain *(Jan 2026 – May 2026)*
 - Led and managed a team of interns to conduct a comprehensive **Financial Parameter Analysis** of **100+ public companies** (FY2020–FY2024)
 - Calculated and modeled **65+ key financial ratios** in Advanced Excel to assess performance and YoY recovery trends
 - Formulated comparative sector-wide templates to track YoY revenue and profit margins
@@ -88,7 +97,7 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 - Created a **3-page interactive performance dashboard** utilizing 9 custom DAX measures to track volume trends and metrics
 - Developed automated workflows in Power Query to expedite data cleaning
 
-**Precision Investments** · Equity Research & Portfolio Intern *(Mar 2026)*
+**Precision Investments** · Equity Research & Portfolio Intern *(Jan 2026 – Mar 2026)*
 - Conducted fundamental stock research, client cash flow modeling, and asset allocation strategy
 - Performed fundamental analysis on mid-cap firms (including Dynamatic Technologies), evaluating financial statements and industry trends
 - Restructured a real client mutual fund portfolio of **₹2.39Cr corpus across 28 schemes**, optimizing cash allocation for retirement income planning
