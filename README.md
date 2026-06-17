@@ -36,7 +36,7 @@ I leverage Advanced Excel, Power BI, and FMVA principles to turn financial state
 > Streamlit · Google Gemini 2.5 Flash · python-docx · Hugging Face Spaces  
 > Live Space: [huggingface.co/spaces/LumoraX/equity-research-pro](https://huggingface.co/spaces/LumoraX/equity-research-pro)
 
-Solo-built a **2,850-line Streamlit application** integrated with Google Gemini 2.5 Flash. Automatically extracts 20–25 financial fields per year from annual report PDFs, processes them via a custom 12-sector KPI scoring engine, and outputs a formatted 9-section Word research report with qualitative warning flags and stock rating.
+Solo-built a **2,850-line Streamlit application** integrated with Google Gemini 2.5 Flash. Automatically extracts 20–25 financial fields per year from annual report PDFs, processes them via a custom 16-sector KPI scoring engine, and outputs a formatted 9-section Word research report with qualitative warning flags and stock rating.
 
 ---
 
@@ -103,7 +103,6 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 - ✅ Finance Internship — Domain Captain — **UptoSkills** (2026)
 - ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
 - ✅ McKinsey Forward Program — **McKinsey & Company** (2026)
-- ✅ AI Literacy — **IBM via Credly** (2025)
 - ✅ Advanced Excel with AI — **Internshala** (2025)
 
 ---
