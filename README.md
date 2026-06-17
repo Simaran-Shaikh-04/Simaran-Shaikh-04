@@ -12,7 +12,7 @@ I focus on the core disciplines of corporate finance and investment research—b
 
 I leverage Advanced Excel, Power BI, and FMVA principles to turn financial statements into clean, actionable projection models and investment recommendations.
 
-- 📍 Ponda, Goa · Open to **Remote Roles**
+- 📍 Ponda, Goa · Open to **Remote Roles** & **Mumbai / Pune / Bengaluru Opportunities**
 - 🎓 BCom Financial Accounting · June 2024 – April 2027
 - 📬 [simaranshaikh04@gmail.com](mailto:simaranshaikh04@gmail.com)
 - 💼 [linkedin.com/in/simaran-shaikh](https://www.linkedin.com/in/simaran-shaikh/)
@@ -32,11 +32,11 @@ I leverage Advanced Excel, Power BI, and FMVA principles to turn financial state
 
 ## 📁 Projects
 
-### 🤖 [AI Equity Research Assistant](https://github.com/Simaran-Shaikh-04/AICTE-BATCH-1-Equity-Research-Pro)
-> React · TypeScript · Express · Google Gemini 2.5 Flash · Docker · Hugging Face Spaces  
+### 🤖 [Equity Research Pro](https://github.com/Simaran-Shaikh-04/AICTE-BATCH-1-Equity-Research-Pro)
+> React 19 · TypeScript · Tailwind CSS v4 · Express · Google Gen AI SDK · Docker  
 > Live Space: [huggingface.co/spaces/LumoraX/equity-research-pro](https://huggingface.co/spaces/LumoraX/equity-research-pro)
 
-Developed a **full-stack React & Node.js application** powered by Google Gemini 2.5 Flash for institutional-grade equity analysis of Indian listed companies. It uploads 3 years of report PDFs, extracts 25+ parameters per year, processes them through 17 sector-specific ratio engines, performs forensic auditing, and features grounded Q&A.
+Full-stack corporate valuation and equity analysis application. Automatically parses annual report PDFs with Gemini 2.5 Flash, extracts 25+ key financial metrics, benchmarks across 17 sector-specific engines, performs DuPont analysis, conducts MD&A YoY NarrativeDiff comparison, and generates structured Word (.docx) and Excel (.xlsx) financial models.
 
 ---
 
@@ -44,7 +44,7 @@ Developed a **full-stack React & Node.js application** powered by Google Gemini 
 > React 19 · TypeScript · Tailwind CSS v4 · Express · Google Gen AI SDK · Docker  
 > Live Space: [huggingface.co/spaces/LumoraX/ai-prompt-studio](https://huggingface.co/spaces/LumoraX/ai-prompt-studio)
 
-Client-side-optimized prompt compiler and migration workspace supporting 8+ AI models (Gemini, ChatGPT, Claude, DeepSeek, etc.). Automatically translates prompts based on target model syntax, enhances image prompting dialects, bridges chat history across rate limits, and includes custom student and career roadmap suites.
+Client-side-optimized workspace designed to craft, bridge, and refine high-performance prompts tailored to the cognitive profiles of 8+ leading AI models (Gemini, ChatGPT, Claude, DeepSeek, etc.). Features 7 modular tabs: an interactive User Guide, Prompt Forge syntax translator, Context Bridge session continuation, Student presets, Image dialect enhancer, curated Resource Hub, and Career roadmaps.
 
 ---
 
@@ -82,9 +82,9 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 ## 💼 Experience
 
 **Self-Directed Build** · AI Developer & Financial Analyst *(Jun 2026)*
-- **AI Prompt Studio**: Built and deployed a live client-side multi-model workspace in React 19 & Tailwind CSS v4 to compile model-optimized prompts and bridge chat contexts (`LumoraX/ai-prompt-studio`).
-- **AI Equity Research Tool**: Deployed a full-stack React & Node.js app (`LumoraX/equity-research-pro`) parsing 3-year report PDFs with Google Gemini 2.5 Flash, 17 sector ratio engines, and forensic checks.
-- Developed sector-specific benchmarking (17 sectors) and qualitative warning-flag algorithms (audit, going concern).
+- **AI Prompt Studio**: Built and deployed a live client-side multi-model workspace in React 19 & Tailwind CSS v4, supporting 7 functional hubs, prompt history management, and cross-AI migration (`LumoraX/ai-prompt-studio`).
+- **Equity Research Pro**: Deployed a full-stack corporate valuation application in React 19 & Express, parsing report PDFs with Google Gemini 2.5 Flash and a 17-sector KPI scoring engine (`LumoraX/equity-research-pro`).
+- Developed sector-specific benchmarking (17 sectors), NarrativeDiff YoY MD&A comparisons, and qualitative warning-flag algorithms.
 
 **UptoSkills India** · Finance Intern & Team Captain *(Jan 2026 – May 2026)*
 - Led and managed a team of interns to conduct a comprehensive **Financial Parameter Analysis** of **100+ public companies** (FY2020–FY2024)
@@ -112,6 +112,7 @@ Computed **65+ financial ratios** across **100+ companies** for FY2020–FY2024.
 - ✅ Finance Internship — Domain Captain — **UptoSkills** (2026)
 - ✅ Equity Research & Portfolio Strategy — **Don Bosco College / Precision Investments** (2026)
 - ✅ McKinsey Forward Program — **McKinsey & Company** (2026)
+- ✅ AI Literacy — **IBM via Credly** (2025)
 - ✅ Advanced Excel with AI — **Internshala** (2025)
 
 ---
