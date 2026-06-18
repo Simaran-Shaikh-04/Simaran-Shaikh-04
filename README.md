@@ -24,8 +24,8 @@ I leverage Advanced Excel, Power BI, and FMVA principles to turn financial state
 
 | Category | Core Skills & Competencies |
 |---|---|
-| **Valuation & Modeling** | Discounted Cash Flow (DCF) · Relative Valuation (P/E, EV/EBITDA) · 3-Statement Modeling · Scenario Planning |
-| **Financial Analysis** | DuPont Analysis · Ratio Analysis · Variance Analysis · Margin Trends · Portfolio Restructuring |
+| **Valuation & Modeling** |  |
+| **Financial Analysis** |  |
 | **Software & BI** | Advanced Excel (Modeling, XLOOKUP, Pivot Tables) · Power BI · DAX · Power Query · Data Modeling |
 
 ---
