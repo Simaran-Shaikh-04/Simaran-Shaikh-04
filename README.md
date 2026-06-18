@@ -24,8 +24,8 @@ I leverage Advanced Excel, Power BI, and FMVA principles to turn financial state
 
 | Category | Core Skills & Competencies |
 |---|---|
-| **Valuation & Modeling** |  |
-| **Financial Analysis** |  |
+| **Valuation & Modeling** | Work in Process |
+| **Financial Analysis** | Work in Process |
 | **Software & BI** | Advanced Excel (Modeling, XLOOKUP, Pivot Tables) · Power BI · DAX · Power Query · Data Modeling |
 
 ---
